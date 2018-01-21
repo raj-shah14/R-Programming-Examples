@@ -1,0 +1,12 @@
+library(readr)
+library(pastecs)
+kiwi <- read.csv("C:/Users/Raj Shah/Downloads/Studies UH/MATH 6359 Stastical Computing/Homework/Answers/HW1/test.csv",header=TRUE,sep=",")
+attach(kiwi)
+head(kiwi)
+nrow(kiwi)
+plot(juice,ohms)
+kiwiohms<-cbind(juice,ohms)
+options(scipen=100)
+options(digits=2)
+stat.desc(kiwiohms,basic=F)
+
