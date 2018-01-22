@@ -1,0 +1,16 @@
+HW4
+Q1
+
+convert to factor
+Regress on factor variable z for 1st qt
+Find out reference group
+Use factorize on (in eg. sex.fact)
+
+Regress z on continuous y on x^2
+
+judge by p-value if less claim significance or else no significance
+
+===============================================
+Q3
+
+
